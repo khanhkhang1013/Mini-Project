@@ -5,4 +5,5 @@ main{
     tinh hieu a-b
     tich cua a.b
     thuong cua a/b
+bao cao ket qua
 }
